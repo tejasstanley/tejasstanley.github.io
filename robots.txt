@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tejasstanley.github.io/al-folio/sitemap.xml
+Sitemap: https://tejasstanley.github.io/sitemap.xml
